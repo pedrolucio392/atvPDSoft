@@ -1,3 +1,5 @@
 # atvPDSoft
 
-Esse projeto não funciona KKK
+Projeto de Informática Matutino
+
+Esse código executa um print de "Olá, mundo" no seu terminal
